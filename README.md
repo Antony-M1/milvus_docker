@@ -2,3 +2,11 @@
 
 # [Milvus](https://milvus.io/docs/quickstart.md)
 Milvus is a powerful vector database tailored for processing and searching extensive vector data. It stands out for its high performance and scalability, rendering it perfect for machine learning, deep learning, similarity search tasks, and recommendation systems.
+
+**Reference Link**
+* [About Milvus](https://milvus.io/docs/overview.md)
+* [Quickstart with Milvus Lite](https://milvus.io/docs/quickstart.md)
+* [Milvus GUI - Attu](https://github.com/zilliztech/attu)
+
+**Tutorial**
+* [A Beginner's Guide to Vector Embeddings](https://www.youtube.com/watch?app=desktop&v=NEreO2zlXDk)
