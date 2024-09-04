@@ -12,3 +12,4 @@ Milvus is a powerful vector database tailored for processing and searching exten
 **Tutorial**
 * [A Beginner's Guide to Vector Embeddings](https://www.youtube.com/watch?app=desktop&v=NEreO2zlXDk)
   * [Installation Guide](https://github.com/binodsuman/nlp/blob/master/Installation_guide.txt)
+  * [Latest - milvus-standalone-docker-compose.yml file](https://github.com/milvus-io/milvus/releases)
