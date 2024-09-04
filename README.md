@@ -14,3 +14,16 @@ Milvus is a powerful vector database tailored for processing and searching exten
   * [Installation Guide](https://github.com/binodsuman/nlp/blob/master/Installation_guide.txt)
   * [Latest - milvus-standalone-docker-compose.yml file](https://github.com/milvus-io/milvus/releases)
   * [Choose Correct attu version for correct milvus version](https://hub.docker.com/r/zilliz/attu)
+
+# Quick Start
+**Step 1 : Clone the Repo**
+```
+git clone https://github.com/Antony-M1/milvus_docker.git
+```
+
+**Step 2 : Up the docker container**
+```
+docker compose up -d
+```
+
+Access the Attu UI in this url [0.0.0.0:8081](http://0.0.0.0:8081/)
