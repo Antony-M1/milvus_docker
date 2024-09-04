@@ -7,6 +7,7 @@ Milvus is a powerful vector database tailored for processing and searching exten
 * [About Milvus](https://milvus.io/docs/overview.md)
 * [Quickstart with Milvus Lite](https://milvus.io/docs/quickstart.md)
 * [Milvus GUI - Attu](https://github.com/zilliztech/attu)
+* [The Top 5 Vector Databases](https://www.datacamp.com/blog/the-top-5-vector-databases)
 
 **Tutorial**
 * [A Beginner's Guide to Vector Embeddings](https://www.youtube.com/watch?app=desktop&v=NEreO2zlXDk)
